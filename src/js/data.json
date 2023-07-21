@@ -1,0 +1,219 @@
+[
+      {
+        "nombre": "Juan Perez",
+        "dni": "12345678",
+        "escuela": "Ingeniería Informática",
+        "codigoAlumno": "202012345672",
+        "telefono": "912345678"
+      },
+      {
+        "nombre": "María Garcia",
+        "dni": "23456789",
+        "escuela": "Ingeniería Electrónica",
+        "codigoAlumno": "201912345678",
+        "telefono": "912345679"
+      },
+      {
+        "nombre": "Luis Rodríguez",
+        "dni": "34567890",
+        "escuela": "Ingeniería de Telecomunicaciones",
+        "codigoAlumno": "201812343678",
+        "telefono": "912345680"
+      },
+      {
+        "nombre": "Ana Martinez",
+        "dni": "45678901",
+        "escuela": "Ingeniería Mecatrónica",
+        "codigoAlumno": "201712345608",
+        "telefono": "912345681"
+      },
+      {
+        "nombre": "Carlos Sanchez",
+        "dni": "56789012",
+        "escuela": "Ingeniería Informática",
+        "codigoAlumno": "202012315678",
+        "telefono": "912345682"
+      },
+      {
+        "nombre": "Sofia Fernandez",
+        "dni": "67890123",
+        "escuela": "Ingeniería Electrónica",
+        "codigoAlumno": "201612345678",
+        "telefono": "912345683"
+      },
+      {
+        "nombre": "Pedro Lopez",
+        "dni": "78901234",
+        "escuela": "Ingeniería Mecatrónica",
+        "codigoAlumno": "201912345678",
+        "telefono": "912345684"
+      },
+      {
+        "nombre": "Laura Gomez",
+        "dni": "89012345",
+        "escuela": "Ingeniería de Telecomunicaciones",
+        "codigoAlumno": "201712395678",
+        "telefono": "912345685"
+      },
+      {
+        "nombre": "Diego Ramirez",
+        "dni": "90123456",
+        "escuela": "Ingeniería Informática",
+        "codigoAlumno": "202112345678",
+        "telefono": "912345686"
+      },
+      {
+        "nombre": "Carmen Torres",
+        "dni": "12345678",
+        "escuela": "Ingeniería Electrónica",
+        "codigoAlumno": "201912345678",
+        "telefono": "912345687"
+      },
+      {
+        "nombre": "Andres Gonzalez",
+        "dni": "23456789",
+        "escuela": "Ingeniería Informática",
+        "codigoAlumno": "201812345678",
+        "telefono": "912345688"
+      },
+      {
+        "nombre": "Isabel Herrera",
+        "dni": "34567890",
+        "escuela": "Ingeniería de Telecomunicaciones",
+        "codigoAlumno": "201712343678",
+        "telefono": "912345689"
+      },
+      {
+        "nombre": "Hugo Castro",
+        "dni": "45678901",
+        "escuela": "Ingeniería Mecatrónica",
+        "codigoAlumno": "202012345668",
+        "telefono": "912345690"
+      },
+      {
+        "nombre": "Marta Ruiz",
+        "dni": "56789012",
+        "escuela": "Ingeniería Electrónica",
+        "codigoAlumno": "201612345678",
+        "telefono": "912345691"
+      },
+      {
+        "nombre": "Fernando Sanchez",
+        "dni": "67890123",
+        "escuela": "Ingeniería de Telecomunicaciones",
+        "codigoAlumno": "201912345678",
+        "telefono": "912345692"
+      },
+      {
+        "nombre": "Elena Torres",
+        "dni": "78901234",
+        "escuela": "Ingeniería Informática",
+        "codigoAlumno": "201712345674",
+        "telefono": "912345693"
+      },
+      {
+        "nombre": "Javier Lopez",
+        "dni": "89012345",
+        "escuela": "Ingeniería Mecatrónica",
+        "codigoAlumno": "202012345678",
+        "telefono": "912345694"
+      },
+      {
+        "nombre": "Sara Garcia",
+        "dni": "90123456",
+        "escuela": "Ingeniería Informática",
+        "codigoAlumno": "201912345678",
+        "telefono": "912345695"
+      },
+      {
+        "nombre": "Daniel Ramirez",
+        "dni": "12345678",
+        "escuela": "Ingeniería Electrónica",
+        "codigoAlumno": "201812345678",
+        "telefono": "912345696"
+      },
+      {
+        "nombre": "Paula Fernandez",
+        "dni": "23456789",
+        "escuela": "Ingeniería de Telecomunicaciones",
+        "codigoAlumno": "201712341678",
+        "telefono": "912345697"
+      },
+      {
+        "nombre": "Raul Gomez",
+        "dni": "34567890",
+        "escuela": "Ingeniería Mecatrónica",
+        "codigoAlumno": "202012385678",
+        "telefono": "912345698"
+      },
+      {
+        "nombre": "Ana Castro",
+        "dni": "45678901",
+        "escuela": "Ingeniería Electrónica",
+        "codigoAlumno": "201912345678",
+        "telefono": "912345699"
+      },
+      {
+        "nombre": "Hector Gonzalez",
+        "dni": "56789012",
+        "escuela": "Ingeniería Informática",
+        "codigoAlumno": "201612345678",
+        "telefono": "912345610"
+      },
+      {
+        "nombre": "Laura Herrera",
+        "dni": "67890123",
+        "escuela": "Ingeniería de Telecomunicaciones",
+        "codigoAlumno": "201912345678",
+        "telefono": "912345611"
+      },
+      {
+        "nombre": "Diego Castro",
+        "dni": "78901234",
+        "escuela": "Ingeniería Informática",
+        "codigoAlumno": "201712345778",
+        "telefono": "912345612"
+      },
+      {
+        "nombre": "Carmen Ruiz",
+        "dni": "89012345",
+        "escuela": "Ingeniería Mecatrónica",
+        "codigoAlumno": "202012345679",
+        "telefono": "912345613"
+      },
+      {
+        "nombre": "Andres Sanchez",
+        "dni": "90123456",
+        "escuela": "Ingeniería Electrónica",
+        "codigoAlumno": "201912345678",
+        "telefono": "912345614"
+      },
+      {
+        "nombre": "Isabel Torres",
+        "dni": "12345678",
+        "escuela": "Ingeniería de Telecomunicaciones",
+        "codigoAlumno": "201812345679",
+        "telefono": "912345615"
+      },
+      {
+        "nombre": "Hugo Lopez",
+        "dni": "23456789",
+        "escuela": "Ingeniería Mecatrónica",
+        "codigoAlumno": "201712385648",
+        "telefono": "912345616"
+      },
+      {
+        "nombre": "Marta Garcia",
+        "dni": "34567890",
+        "escuela": "Ingeniería Informática",
+        "codigoAlumno": "202012345688",
+        "telefono": "912345617"
+      },
+      {
+        "nombre": "Fernando Ramirez",
+        "dni": "45678901",
+        "escuela": "Ingeniería Electrónica",
+        "codigoAlumno": "201912345678",
+        "telefono": "912345618"
+      }
+    ]

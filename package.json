@@ -1,0 +1,27 @@
+{
+  "name": "boilerplate-desde-cero",
+  "version": "1.0.0",
+  "description": "Creando boilerplate desde cero",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamiquispe/Boilerplate-desde-cero.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "start"
+  ],
+  "author": "buscoanemo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamiquispe/Boilerplate-desde-cero/issues"
+  },
+  "homepage": "https://github.com/yamiquispe/Boilerplate-desde-cero#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
